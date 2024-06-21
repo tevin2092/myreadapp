@@ -1,0 +1,10 @@
+insert into reader (username, title, first_name, last_name) values ('kporch0', 'Ms', 'Katine', 'Porch');
+insert into reader (username, title, first_name, last_name) values ('arains1', 'Dr', 'Angelico', 'Rains');
+insert into reader (username, title, first_name, last_name) values ('ddavitt2', 'Dr', 'Dermot', 'Davitt');
+insert into reader (username, title, first_name, last_name) values ('bringham3', 'Ms', 'Brenden', 'Ringham');
+insert into reader (username, title, first_name, last_name) values ('deakins4', 'Ms', 'Dalenna', 'Eakins');
+insert into reader (username, title, first_name, last_name) values ('tbreyt5', 'Mr', 'Tull', 'Breyt');
+insert into reader (username, title, first_name, last_name) values ('astelljes6', 'Dr', 'Amity', 'Stelljes');
+insert into reader (username, title, first_name, last_name) values ('apeyes7', 'Mr', 'Amye', 'Peyes');
+insert into reader (username, title, first_name, last_name) values ('ptarply8', 'Mr', 'Philippa', 'Tarply');
+insert into reader (username, title, first_name, last_name) values ('lknapp9', 'Mr', 'Law', 'Knapp');
